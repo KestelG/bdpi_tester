@@ -1,9 +1,5 @@
 # bdpi_tester
 
-> Note: The AI helped with writing this code.
-
-> Примечание: При разработке использовался ИИ.
-
 ### Example of a configs.txt:
 ```txt
 -q4+s -s27+s -o3+s -As
