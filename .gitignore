@@ -1,4 +1,5 @@
-.cargo
-target
-Cargo.lock
-.git
+/.cargo
+/.Cargo
+/target
+/Cargo.lock
+/.git
