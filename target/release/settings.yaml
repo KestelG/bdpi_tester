@@ -1,5 +1,0 @@
-group_size: 10
-start_port: 10000
-group_delay_ms: 500
-request_timeout_sec: 1
-log_dir: "logs"
