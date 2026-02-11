@@ -1,0 +1,6 @@
+split cancel: pos=27-0, n=522
+split cancel: pos=27-0, n=522
+split cancel: pos=27-0, n=50
+split cancel: pos=27-0, n=50
+split cancel: pos=27-0, n=522
+send: Connection reset by peer

@@ -1,0 +1,12 @@
+split cancel: pos=0--1, n=44
+recv: Connection reset by peer
+split cancel: pos=0--1, n=50
+recv: Connection reset by peer
+recv: Connection reset by peer
+split cancel: pos=0--1, n=50
+split cancel: pos=0--1, n=50
+split cancel: pos=0--1, n=44
+recv: Connection reset by peer
+recv: Connection reset by peer
+recv: Connection timed out
+split cancel: pos=0--1, n=50

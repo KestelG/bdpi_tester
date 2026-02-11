@@ -1,0 +1,8 @@
+# settings.toml
+group_size = 50             # сколько конфигов в одной группе
+start_port = 10000          # первый порт для ciadpi (следующие берутся +1, +2...)
+group_delay_ms = 500        # пауза между группами (ms)
+request_timeout_sec = 1     # таймаут для HTTP запросов
+log_dir = "logs"            # базовая папка логов
+results_file = "results.txt" # куда писать результирующий файл
+ciadpi_start_delay_ms = 800 # время ожидания ciadpi перед тестами (ms)

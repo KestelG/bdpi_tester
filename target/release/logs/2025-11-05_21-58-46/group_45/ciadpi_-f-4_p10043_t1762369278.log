@@ -1,0 +1,6 @@
+split cancel: pos=513-166, n=517
+split cancel: pos=513-166, n=517
+split cancel: pos=46--1, n=50
+recv: Connection reset by peer
+split cancel: pos=46--1, n=50
+split cancel: pos=513-166, n=517

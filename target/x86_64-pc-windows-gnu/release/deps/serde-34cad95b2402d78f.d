@@ -1,0 +1,14 @@
+/home/danil/RustProjects/bdpi_tester/target/x86_64-pc-windows-gnu/release/deps/serde-34cad95b2402d78f.d: /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/danil/RustProjects/bdpi_tester/target/x86_64-pc-windows-gnu/release/build/serde-329d23edb581cfc6/out/private.rs
+
+/home/danil/RustProjects/bdpi_tester/target/x86_64-pc-windows-gnu/release/deps/libserde-34cad95b2402d78f.rlib: /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/danil/RustProjects/bdpi_tester/target/x86_64-pc-windows-gnu/release/build/serde-329d23edb581cfc6/out/private.rs
+
+/home/danil/RustProjects/bdpi_tester/target/x86_64-pc-windows-gnu/release/deps/libserde-34cad95b2402d78f.rmeta: /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/danil/RustProjects/bdpi_tester/target/x86_64-pc-windows-gnu/release/build/serde-329d23edb581cfc6/out/private.rs
+
+/home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/danil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/danil/RustProjects/bdpi_tester/target/x86_64-pc-windows-gnu/release/build/serde-329d23edb581cfc6/out/private.rs:
+
+# env-dep:OUT_DIR=/home/danil/RustProjects/bdpi_tester/target/x86_64-pc-windows-gnu/release/build/serde-329d23edb581cfc6/out
