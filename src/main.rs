@@ -255,6 +255,16 @@ fn start_ciadpi_process(
 
     let args: Vec<&str> = config.split_whitespace().collect();
     
+    #[cfg(windows)]
+    Command::new(exe_name)
+        .args(&args)
+        .args(&["--ip", "0.0.0.0", "--port", &socks5_port.to_string(), "-Y"])
+        .stdout(Stdio::from(log_file.try_clone()?))
+        .stderr(Stdio::from(log_file))
+        .spawn()
+        .map_err(|e| format!("Failed to spawn {} ({}): {}", exe_name, config, e).into())
+
+    #[cfg(not(windows))]
     Command::new(exe_name)
         .args(&args)
         .args(&["--ip", "0.0.0.0", "--port", &socks5_port.to_string(), "-Y"])
