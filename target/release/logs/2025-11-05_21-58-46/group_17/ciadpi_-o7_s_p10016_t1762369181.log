@@ -1,3 +1,0 @@
-split cancel: pos=0--1, n=50
-split cancel: pos=163-1, n=517
-recv: Connection reset by peer
