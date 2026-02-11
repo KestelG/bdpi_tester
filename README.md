@@ -1,5 +1,8 @@
 # bdpi_tester
 
+### Важная информация
+[Byedpi](https://github.com/hufrea/byedpi) и [hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) включены в архивы со сборкой, при самтосятельной сборке необходимо их добавить самостоятельно.
+
 ### Example of a configs.txt:
 ```txt
 -q4+s -s27+s -o3+s -As
